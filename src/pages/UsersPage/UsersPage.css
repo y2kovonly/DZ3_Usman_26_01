@@ -1,0 +1,9 @@
+.user_block {
+    width: 1000px;
+    text-align: justify;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 20px;
+}
